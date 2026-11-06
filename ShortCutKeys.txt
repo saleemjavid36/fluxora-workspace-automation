@@ -1,0 +1,3 @@
+ Ctrl+Alt+Shift+O ==> Open Apps
+Ctrl+Alt+Shift+X ===> close all the apps.
+Ctrl+Alt+Shift+Q ====> quite manager

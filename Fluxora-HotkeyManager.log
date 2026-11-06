@@ -1,0 +1,48 @@
+2026-11-06 21:24:11 - Starting Fluxora Hotkey Manager.
+2026-11-06 21:24:11 - Registered Ctrl+Alt+Shift+O successfully.
+2026-11-06 21:24:11 - Registered Ctrl+Alt+Shift+X successfully.
+2026-11-06 21:24:11 - Registered Ctrl+Alt+Shift+Q successfully.
+2026-11-06 21:24:11 - All shortcuts registered. Manager is listening.
+2026-11-06 21:24:14 - Opening Fluxora workspace.
+2026-11-06 21:24:14 - Open workspace started. PID: 12048
+2026-11-06 21:24:20 - Closing Fluxora workspace.
+2026-11-06 21:24:20 - Close workspace started. PID: 9020
+2026-11-06 21:24:37 - Opening Fluxora workspace.
+2026-11-06 21:24:37 - Open workspace started. PID: 13148
+2026-11-06 21:31:59 - Closing Fluxora workspace.
+2026-11-06 21:31:59 - Close workspace started. PID: 24596
+2026-11-06 21:32:13 - Opening Fluxora workspace.
+2026-11-06 21:32:13 - Open workspace started. PID: 26548
+2026-11-06 21:32:20 - Opening Fluxora workspace.
+2026-11-06 21:32:20 - Open workspace started. PID: 6944
+2026-11-06 21:32:26 - Closing Fluxora workspace.
+2026-11-06 21:32:26 - Close workspace started. PID: 20708
+2026-11-06 21:32:36 - Opening Fluxora workspace.
+2026-11-06 21:32:36 - Open workspace started. PID: 25984
+2026-11-06 21:33:05 - Opening Fluxora workspace.
+2026-11-06 21:33:05 - Open workspace started. PID: 2688
+2026-11-06 21:33:30 - Closing Fluxora workspace.
+2026-11-06 21:33:30 - Close workspace started. PID: 25304
+2026-11-06 21:33:47 - Opening Fluxora workspace.
+2026-11-06 21:33:47 - Open workspace started. PID: 12144
+2026-11-06 21:37:30 - Opening Fluxora workspace.
+2026-11-06 21:37:30 - Open workspace started. PID: 26664
+2026-11-06 21:37:57 - Closing Fluxora workspace.
+2026-11-06 21:37:57 - Close workspace started. PID: 18632
+2026-11-06 21:47:55 - Opening Fluxora workspace.
+2026-11-06 21:47:55 - Open workspace started. PID: 8924
+2026-11-06 21:48:35 - Closing Fluxora workspace.
+2026-11-06 21:48:35 - Close workspace started. PID: 17160
+2026-11-06 22:13:34 - Starting Fluxora Hotkey Manager.
+2026-11-06 22:13:34 - Open script: D:\Experiments\OpenWorkSpace\Fluxora-Workspace.ps1
+2026-11-06 22:13:34 - Close script: D:\Experiments\OpenWorkSpace\Close-Fluxora-Workspace.ps1
+2026-11-06 22:13:34 - Registered Ctrl+Alt+Shift+O successfully.
+2026-11-06 22:13:34 - Registered Ctrl+Alt+Shift+X successfully.
+2026-11-06 22:13:34 - Registered Ctrl+Alt+Shift+Q successfully.
+2026-11-06 22:13:34 - All shortcuts registered. Manager is listening.
+2026-11-06 22:13:38 - Opening Fluxora workspace.
+2026-11-06 22:13:38 - Open workspace started. PID: 10840
+2026-11-06 22:13:59 - Closing Fluxora workspace.
+2026-11-06 22:13:59 - Close workspace started. PID: 22648
+2026-11-06 22:14:59 - Stop shortcut received. Shutting down manager.
+2026-11-06 22:14:59 - Fluxora Hotkey Manager stopped.
